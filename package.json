@@ -1,0 +1,14 @@
+{
+  "name": "accounting-app",
+  "version": "1.0.0",
+  "description": "Node.js port of COBOL Account Management System",
+  "main": "src/accounting/index.js",
+  "scripts": {
+    "start": "node src/accounting/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
